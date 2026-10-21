@@ -1,0 +1,1 @@
+{ "name": "limit-band", "version": "0.1.1", "description": "Строка над полем ввода: сколько осталось лимита и когда платить за подписку", "types": "./types/index.d.ts" }
