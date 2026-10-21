@@ -1,0 +1,5 @@
+{
+  "name": "claude-limit-band",
+  "owner": { "name": "Nurbolat" },
+  "plugins": [{ "name": "limit-band", "source": "./" }]
+}
